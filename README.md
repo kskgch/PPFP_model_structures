@@ -1,4 +1,4 @@
-PPFP_ model_ structures 
+PPFP model structures 
 ---------------------
 
 ### PDB files
@@ -8,7 +8,7 @@ The PDB file of the modeled PPFP structure from Sakaguchi et al. 2021:
 - s2021_ fig3_ ppfp_ model_ structure.pdb
 
 
-The PDB files of PPFP (Structure ID: B01--B19 in table3) from Sakaguchi et al. 2024: 
+The PDB files of PPFP (Structure ID: B01--B19 in Table3) from Sakaguchi et al. 2024: 
 
 - s2024_ table3_ [b01-b14]_ ppfp_ md_ apo.pdb
 - s2024_ table3_ [b15-b19]_ ppfp_ md_ rosi.pdb
